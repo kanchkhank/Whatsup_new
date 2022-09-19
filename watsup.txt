@@ -5,3 +5,4 @@ author:kanchana
 2.chat screen code
 3.Last screen code
 4.Attachments(Image,Audio,Video)code
+5.Hiding the last scene
